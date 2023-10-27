@@ -1,2 +1,1 @@
-# Projects
-my projects developed at various hackathons and ctf games or other contests
+Данный репозиторий создан для участия в хакатоне "Цифровой прорыв: искусственный интеллект"
